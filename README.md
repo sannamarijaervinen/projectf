@@ -1,2 +1,1 @@
-# projectf
-Harjoitus
+# projectf readme #
